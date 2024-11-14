@@ -6,6 +6,9 @@ nav:
   - Linux:
     - linux/index.md
     - Linux Commands Cheatsheet: linux/cheatsheet.md
+    - Adventures with a T480: 
+      - linux/adventuresWithAT480/index.md
+      - Enabling the fingerprint reader on Fedora 41: linux/adventuresWithAT480/fingerPrintReader.md
   - Proxmox:
     - proxmox/index.md
     - Resizing an Ubuntu VM Disk: proxmox/resizingvmdisk.md
